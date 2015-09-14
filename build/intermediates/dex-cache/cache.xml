@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jaeho\AndroidStudioProjects\app-master\app\libs\huelocalsdk.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="996bfa720a2afadcc45ce78dad922c311be989e4">
+        <dex dex="C:\Users\jaeho\AndroidStudioProjects\app-master\app\build\intermediates\pre-dexed\debug\huelocalsdk-9ce8da6770d7d9300ac85fd6162241c7c83424c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\jaeho\AndroidStudioProjects\app-master\app\libs\huesdkresources.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="53c67003833f6f26878538e28a188e8146b7ceb1">
+        <dex dex="C:\Users\jaeho\AndroidStudioProjects\app-master\app\build\intermediates\pre-dexed\debug\huesdkresources-a6e6522658150b8a9070fa83a7b97dac351aef49.jar" />
+    </item>
+
+</items>
